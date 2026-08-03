@@ -1,4 +1,4 @@
-## 📊  Netflix Movies & TV Shows SQL Analysis
+# 📊  Netflix Movies & TV Shows SQL Analysis
 ![Netflix logo](https://github.com/iam-anjalirawat/SQL_Project_Netflix/blob/main/Netflix%20Logo)
 
 ## 📌 Project Overview
