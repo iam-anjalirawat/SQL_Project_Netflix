@@ -37,6 +37,10 @@ This project explores the Netflix Movies & TV Shows dataset through SQL by solvi
 
 Netflix Movies & TV Shows dataset containing information on titles, genres, ratings, countries, directors, cast, release years, durations, and descriptions.
 
+The data for this project is sourced from the Kaggle dataset:
+
+Dataset Link: Movies Dataset
+
 # 🎯 Project Objective
 
 To strengthen SQL proficiency by solving practical business problems and transforming raw entertainment data into actionable insights using analytical SQL techniques.
