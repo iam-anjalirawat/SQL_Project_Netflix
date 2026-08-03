@@ -52,7 +52,7 @@ Window Functions (if used)
 Data Cleaning
 Exploratory Data Analysis (EDA)
 
-## Schema
+## 🗄️Schema
 
 ```sql
 DROP TABLE IF EXISTS netflix;
