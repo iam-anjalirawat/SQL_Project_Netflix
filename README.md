@@ -147,11 +147,16 @@ LIMIT 5;
 ### 5. Identify the Longest Movie
 
 ```sql
-SELECT 
-    *
+SELECT
+	title,
+	CAST(REPLACE(duration, 'min','') as INTEGER) AS minutes
 FROM netflix
-WHERE type = 'Movie'
-ORDER BY SPLIT_PART(duration, ' ', 1)::INT DESC;
+WHERE 
+	type = 'Movie' 
+	AND
+	duration IS NOT NULL
+ORDER BY minutes DESC
+LIMIT 1
 ```
 
 **Objective:** Find the movie with the longest duration.
