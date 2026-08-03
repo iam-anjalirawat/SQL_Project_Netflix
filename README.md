@@ -1,5 +1,5 @@
 # 📊  Netflix Movies & TV Shows SQL Analysis
-![Netflix logo](https://github.com/iam-anjalirawat/SQL_Project_Netflix/blob/main/BrandAssets_Logos_01-Wordmark.jpg)
+![Netflix logo](https://github.com/iam-anjalirawat/SQL_Project_Netflix/blob/main/Netflix%20Logo)
 
 # 📌 Project Overview
 This project explores the Netflix Movies & TV Shows dataset through SQL by solving 15 real-world business problems. The analysis covers content distribution, audience ratings, release trends, country-wise production, genre popularity, director and actor insights, and content classification. Throughout the project, I applied SQL for data cleaning, transformation, exploratory data analysis (EDA), and business intelligence to derive meaningful insights from raw data.
